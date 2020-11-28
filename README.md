@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Deployed Link](#deployed-link)
 - [Description](#description)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Future Enhancements](#future-enhancements)
 - [Contact](#Contact)
@@ -16,9 +15,6 @@ https://gpardington.github.io/React-Portfolio/
 
 My new, revamped web development portfolio made using [React](https://reactjs.org/). 
 
-## Demo
-
-![Demo](public/images/demo.gif?raw=true)
 
 ## Installation
 
